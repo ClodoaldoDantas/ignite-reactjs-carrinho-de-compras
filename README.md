@@ -1,4 +1,4 @@
-## RocketShoes 👟
+## RocketShoes 🥾
 
 ![Screenshot 1](screenshots/photo-1.png)
 ![Screenshot 2](screenshots/photo-2.png)
